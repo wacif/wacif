@@ -23,17 +23,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<h3>My GitHub Stats</h3>
-<!--<h3>My GitHub Stats</h3>
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
-<br>-->
 
-<br><br><br><br><br><br><br>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=wacif&show_icons=true&theme=dark&locale=en" alt="wacif" /></p>
-<br><br><br><br><br><br><br><br><br><br>
+### ⚙️ &nbsp;GitHub Analytics
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=wacif&theme=dark" alt="wacif" /></p>
-<br><br><br><br><br><br><br><br><br><br>
-<hr width="60%" >
+<p align="center">
+<a href="https://github.com/wacif">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=wacif&show_icons=true&theme=dark&locale&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=wacif&layout=compact&langs_count=8&theme=dark&locale"/>
+</a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wacif&show_icons=true&theme=dark&locale=en&layout=compact" alt="wacif" /></p>
+
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wacif&show_icons=true&theme=dark&locale=en&layout=compact" alt="wacif" /></p>
