@@ -35,4 +35,4 @@ Here are some ideas to get you started:
 
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wacif&show_icons=true&theme=dark&locale=en&layout=compact" alt="wacif" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=wacif&show_icons=true&theme=dark&locale=en&layout=compact" alt="wacif" /></p>
