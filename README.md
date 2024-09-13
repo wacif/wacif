@@ -1,27 +1,21 @@
-## Hi there I,m Wasif Nawaz 👋
+## Hi there I,m **Wasif Nawaz** 👋
 
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> **About me**
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
-<br><br>
+<br>
 
+<p>A passionate Software Engineer with a focus on AI and Machine Learning. I'm currently pursuing a BS in Software Engineering from Virtual University of Pakistan and have completed a specialization in Machine Learning from DeepLearning.AI, Stanford University. I have hands-on experience with AI tools and technologies, developing apps using pretrained models and APIs. I'm eager to collaborate and contribute to innovative projects in the AI and software development space. Let's build something amazing together!</p>
 
-
-
-
-**wacif/wacif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🔭 I’m currently working on AI-powered apps and projects using pretrained models.  
+🌱 I’m currently learning advanced AI algorithms and improving my Python frameworks knowledge.  
+👯 I’m looking to collaborate on AI, machine learning, and software development projects.  
+🤔 I’m looking for help with optimizing AI models for real-world applications.  
+💬 Ask me about AI tools, Python, and Machine Learning!  
+📫 How to reach me: [Email](nwasi1930@gmail.com)  
+😄 Pronouns: He/Him  
+⚡ Fun fact: I love exploring new AI technologies and enjoy problem-solving challenges!
 
 
 ### ⚙️ &nbsp;GitHub Analytics
