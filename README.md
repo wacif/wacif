@@ -32,7 +32,4 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=wacif&layout=compact&langs_count=8&theme=dark&locale"/>
 </a>
 </p>
-
-
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=wacif&show_icons=true&theme=dark&locale=en&layout=compact" alt="wacif" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=wacif&theme=dark" alt="wacif" /></p>
