@@ -6,15 +6,22 @@
 
 <br>
 
-<p>A passionate Software Engineer with a focus on AI and Machine Learning. I'm currently pursuing a BS in Software Engineering from Virtual University of Pakistan and have completed a specialization in Machine Learning from DeepLearning.AI, Stanford University. I have hands-on experience with AI tools and technologies, developing apps using pretrained models and APIs. I'm eager to collaborate and contribute to innovative projects in the AI and software development space. Let's build something amazing together!</p>
+<p>A passionate Software Engineer specializing in AI, Generative AI, and automation, with a focus on building innovative solutions. Armed with a Machine Learning Specialization from DeepLearning.AI (Stanford) and hands-on experience in LangChain, Flask, Django, and APIs like OpenAI, Groq, and ElevenLabs, I’ve developed chatbots with tool-calling, OCR systems for healthcare, SOP generation tools, and diarization systems. I thrive on leveraging Python, Git, and modern frameworks to create impactful tech—let’s build something amazing together!</p>
 
-🔭 I’m currently working on AI-powered apps and projects using pretrained models.  
-🌱 I’m currently learning advanced AI algorithms and improving my Python frameworks knowledge.  
-👯 I’m looking to collaborate on AI, machine learning, and software development projects.  
-🤔 I’m looking for help with optimizing AI models for real-world applications.  
-💬 Ask me about AI tools, Python, and Machine Learning!  
+🔭 I’m currently working on AI-powered apps, automation tools, and healthcare solutions using LangChain and pretrained models.
+
+🌱 I’m currently learning CrewAI for multi-agent systems, advancing my Docker and Django skills, and exploring advanced AI algorithms.
+
+👯 I’m looking to collaborate on Generative AI, chatbot development, automation projects, and open-source contributions.
+
+🤔 I’m looking for help with scaling AI systems and optimizing real-time applications.
+
+💬 Ask me about AI tools, Python frameworks, OCR systems, or software development workflows!
+
 📫 How to reach me: [Email](nwasi1930@gmail.com)  
+
 😄 Pronouns: He/Him  
+
 ⚡ Fun fact: I love exploring new AI technologies and enjoy problem-solving challenges!
 
 
