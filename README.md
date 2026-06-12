@@ -114,10 +114,6 @@
 </p>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=wacif&theme=tokyonight" alt="wacif" /></p>
 
-<p align="center">
-  <img src="https://github-profile-trophy-ruby.vercel.app/?username=wacif&theme=tokyonight&no-frame=true&margin-w=10&row=1" alt="trophies" />
-</p>
-
 ---
 
 <p align="center"><i>⚡ Let's build something intelligent together.</i></p>
